@@ -13,5 +13,5 @@
 - Quality control, clustering and annotation, differential gene expression,
 - How to calculate sample size?
   ``` bash 
-fastq-dump -X 3 SRR11537950 --stdout
+ fastq-dump -X 3 SRR11537950 --stdout
 ```
