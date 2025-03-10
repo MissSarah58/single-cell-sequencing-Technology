@@ -1,6 +1,13 @@
 # single-cell-sequencing-Technology
-- what is single cell technology and how to separate the individual cell from a group of cells
-- applications of SCT in cancer, immunology, neurology, reproduction, basic and clinical research
-- why is the need for studying single cell RNA seq( to look at gene expressions of PBMCs)
-- what is the difference between bulk RNA seq and single cell RNA seq?
-- how do you isolate individual cells?
+- What is single cell technology and how to separate the individual cell from a group of cells
+- Applications of SCT in cancer, immunology, neurology, reproduction, basic and clinical research
+- Why is the need for studying single cell RNA seq( to look at gene expressions of PBMCs)
+- What is the difference between bulk RNA seq and single cell RNA seq?
+- How do you isolate individual cells?
+- Steps in SCT- sample preparation and sequencing; sequence alignment and sequence count; data normalization and gene expression(quality control and filtering, normalization, expression by cells, dimensionality reduction amd call clustering); downstream analysis(differential expression etc)
+- Unbiased profiling
+- Single cell resolution which reveals cellular diversity, identifies rare cell types and uncovers dynamic gene expression patterns
+- Distinguishing the isolated individual cells by tagging a unique molecular identifier to the cell?
+- How does SC RNA-Seq work?
+- Challenges associated with SC RNA -Seq include cell capture effiency, amplification bias, sequencing depth, requires high dimensional data analysis. batch effects and high computational requirements, poor library quality
+- 
