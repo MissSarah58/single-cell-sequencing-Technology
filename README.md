@@ -10,4 +10,5 @@
 - Distinguishing the isolated individual cells by tagging a unique molecular identifier to the cell?
 - How does SC RNA-Seq work?
 - Challenges associated with SC RNA -Seq include cell capture effiency, amplification bias, sequencing depth, requires high dimensional data analysis. batch effects and high computational requirements, poor library quality
-- 
+- Quality control, clustering and annotation, differential gene expression,
+- How to calculate sample size?
