@@ -19,3 +19,10 @@
 - cell thawing
 - pipette tip recommendation for single cell assays
 - quality control and exploratory analysis
+- Filtering cells based on technical and biological parameters(nCount_RNA, nFeature_RNA, percent_mitochondria)
+- Normalization of gene expression within a cell
+- Clustering and why do we cluster cells
+- Dimensionality reduction
+- Graph based clustering
+- How to visualize cells in lower dimension
+- 
