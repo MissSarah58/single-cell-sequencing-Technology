@@ -12,7 +12,10 @@
 - Challenges associated with SC RNA -Seq include cell capture effiency, amplification bias, sequencing depth, requires high dimensional data analysis. batch effects and high computational requirements, poor library quality
 - Quality control, clustering and annotation, differential gene expression,
 - How to calculate sample size?
-  
+- To download fastq files using SRA toolkit(fastq-dump)
 ``` bash 
  fastq-dump -X 3 SRR11537950 --stdout
 ```
+- cell thawing
+- pipette tip recommendation for single cell assays
+- quality control and exploratory analysis
