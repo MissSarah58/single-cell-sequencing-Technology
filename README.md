@@ -25,4 +25,8 @@
 - Dimensionality reduction
 - Graph based clustering
 - How to visualize cells in lower dimension
+- Data intergration concept(shared features between different batches)(diagonal and horizontal features)
+- TSNE plot
+- Canonical correlation analysis where they treat the data sets as multiple measurements of a gene-gene covariance structure and search for patterns that are common to the data sets
+- Intergration in seurat
 - 
